@@ -1,5 +1,4 @@
-Preference-aware Crowdsourcing of IoT Energy Services
-
+**Preference-aware Crowdsourcing of IoT Energy Services**
 This repository contains the core implementation and evaluation code for the paper "Preference-aware Crowdsourcing of IoT Energy Services" (submitted to ICSOC 2025).
 The code enables reproduction of the experiments described in Section 4 of the paper.
 
